@@ -1,2 +1,2 @@
 # MiXTelematics
-An answer to Spatial Index problem for MiXTelematics Recruitment
+An answer to the Spatial Index problem for MiXTelematics Recruitment
